@@ -11,10 +11,9 @@ function multiply(a, b) {
 // function multiply(a, b) {
 // 	let answer = 0;
 // 	for (let i = 0; i < a; i++) {
-// 	  answer += b;
-// 	  console.log(answer);
+// 		answer += b;
 // 	}
 // 	return answer;
-//   }
+// }
 
 module.exports = multiply;
